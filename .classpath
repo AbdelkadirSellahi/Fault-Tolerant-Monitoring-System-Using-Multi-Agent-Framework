@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Study/Master-02/Semster-01/JAVA/Jade/jade/lib/commons-codec/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Study/Master-02/Semster-01/JAVA/Jade/jade/lib/jade.jar"/>
+	<classpathentry kind="lib" path="D:/Study/Master-02/Semster-01/JAVA/Jade/jade/lib/jadeExamples.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc car/Downloads/Telegram Desktop/New folder/New folder/swtgraphics2d.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

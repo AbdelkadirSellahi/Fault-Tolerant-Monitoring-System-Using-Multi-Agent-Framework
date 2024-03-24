@@ -1,0 +1,2 @@
+-gui
+HelpAgent:HelpAgent;LearningAgent:LearningAgent;SystemAgent:SystemAgent;SensorAgent:SensorAgent;
